@@ -17,5 +17,5 @@ export default new Vuetify({
                 error: '#f83e70',
             }
         }
-    }
+    },
 });
