@@ -19,8 +19,9 @@
             <div>{{project.due}}</div>
           </v-col>
           <v-col xs="2">
-            <div class="caption grey--text">Status</div>
-            <div>{{project.status}}</div>
+            <div class="text-right">
+              <v-chip small :class="`${project.status} white--text caption my-2`">{{project.status}}</v-chip>
+            </div>
           </v-col>
         </v-row>
         <v-row cols="12">
@@ -55,10 +56,20 @@
   border-left: 4px solid #3cd1c2;
 }
 .project.ongoing {
-  border-left: 4px solid orange;
+  border-left: 4px solid #ffaa2c;
 }
 .project.overdue {
-  border-left: 4px solid tomato;
+  border-left: 4px solid #f83e70;
+}
+
+.v-chip.complete {
+  background: #3cd1c2 !important;
+}
+.v-chip.ongoing {
+  background: #ffaa2c !important;
+}
+.v-chip.overdue {
+  background: #f83e70 !important;
 }
 
 </style>
