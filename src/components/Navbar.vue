@@ -50,7 +50,7 @@
             <v-row >
                 <v-col class="mt-5 text-center" >
                     <v-avatar size="100">
-                    <img src="/avatar-1.png" alt="" />
+                    <img src="https://github.com/KlaytonJr/todo-ninja-vuetify/blob/develop/public/avatar-1.png?raw=true" alt="" />
                     </v-avatar>
                     <p class="white--text text-subtitle-1 mt-1">
                     The Net Ninja
