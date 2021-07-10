@@ -50,6 +50,9 @@
                     The Net Ninja
                     </p>
                 </v-col >
+                <v-col class="mt-4 mb-3">
+                    <Popup />
+                </v-col>
             </v-row >
             <v-list>
                 <v-list-item v-for="link in links" :key="link.text" router :to="link.route">
@@ -66,8 +69,14 @@
 </template>
 
 <script>
+import Popup from './Popup.vue'
+
 export default {
     name: "Navbar",
+
+    components: {
+        Popup
+    },
 
     data() {
         return {
