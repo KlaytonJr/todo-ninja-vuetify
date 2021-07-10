@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <v-app-bar flat app>
+        <v-app-bar depressed app>
             <v-app-bar-nav-icon class="grey--text" @click="drawer = !drawer"></v-app-bar-nav-icon>
             <v-app-bar-title class="text-uppercase grey--text">
                 <span class="font-weight-light">Todo</span>
