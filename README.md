@@ -1,8 +1,8 @@
-# To do Ninja com Vuetify
+# To do Ninja with Vuetify
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-### Esse projeto foi desenvolvido com as seguintes tecnologias:
+### This project was developed with the followings technologies:
 
 <ul>
   <li>HTML</li>
@@ -11,32 +11,32 @@
   <li>VueJS</li>
 </ul>
 
-### Outras tecnologias:
+### Other technologies:
 
 <ul>
   <li>Firebase Cloud</li>
 </ul>
 
-### Habilidades desenvolvidas:
-- [X] Consumo de Cloud
-- [X] Criação de Tabela com VueJs
-- [X] Uso de Biblioteca VueJS
+### Developed abilities:
+- [X] Consuming Cloud
+- [X] Create table with VueJs
+- [X] Consuming VueJS library
 
-## 💻 Projeto
+## 💻 Project
 
-Este projeto é uma To do list que tem como base de consumo um cloud no Firebase.
+This project is a To do list that is based on a cloud in Firebase.
 
-Você pode visualizar o projeto através desse link <a href="https://klaytonjr.github.io/todo-ninja-vuetify/">Clique Aqui</a>.
+You can view the project through this link <a href="https://klaytonjr.github.io/todo-ninja-vuetify/">Click here</a>.
 
 ## Screenshots
-<img src="https://i.imgur.com/dM7Gisy.png" alt="screenshot tela inicial" />
-<img src="https://i.imgur.com/yFJEHyz.png" alt="screenshot tela teams" />
-<img src="https://i.imgur.com/Dqt2dGz.png" alt="screenshot tela My Projects" />
+<img src="https://i.imgur.com/dM7Gisy.png" alt="screenshot initial screen" />
+<img src="https://i.imgur.com/yFJEHyz.png" alt="screenshot teams screen" />
+<img src="https://i.imgur.com/Dqt2dGz.png" alt="screenshot My Projects screen" />
 
 <!-- Link IMGUR: https://imgur.com/a/Ee0Mid3 -->
 
 
-# Instalação
+# Instalation
 
 ## Project setup
 ```
